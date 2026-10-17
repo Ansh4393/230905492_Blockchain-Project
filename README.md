@@ -40,3 +40,9 @@ Replace the placeholder with the actual deployed contract address.
 | TC-03 | Register a product with ID zero | Registration rejected |
 | TC-04 | Update status using a non-owner wallet | Access denied |
 | TC-05 | Retrieve registered product details | Correct product information displayed |
+
+<img width="1922" height="806" alt="image" src="https://github.com/user-attachments/assets/726220f0-3435-486f-9468-67e9e145b1ec" />
+<img width="1422" height="764" alt="image" src="https://github.com/user-attachments/assets/35d5741d-577c-4616-9c3a-78bf95d5001f" />
+<img width="1438" height="854" alt="image" src="https://github.com/user-attachments/assets/12124ef9-b32d-4291-ae84-600ae29bb1e2" />
+<img width="368" height="430" alt="image" src="https://github.com/user-attachments/assets/1a63ae72-581d-4cce-a215-c7105cb247b0" />
+<img width="1456" height="854" alt="image" src="https://github.com/user-attachments/assets/c6774d80-f609-4b6b-89dc-e360403fd232" />
